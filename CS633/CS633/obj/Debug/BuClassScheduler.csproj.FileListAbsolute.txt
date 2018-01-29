@@ -1,0 +1,9 @@
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\obj\Debug\BuClassScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\obj\Debug\BuClassScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Shay\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
